@@ -17,8 +17,12 @@ This projet is built by following the MVC pattern. Seperation of concern and cle
 -Session Facade Pattern
 
 # Features:
--Show All Book
+-Show All Books
 
 -User can Register Himself/ Herself
 
--
+-Home Page
+
+-Log In Page
+
+# Guidelines to Run this Project
