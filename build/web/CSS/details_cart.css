@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://previews.123rf.com/images/robertsrob/robertsrob1412/robertsrob141200062/34560828-open-book-on-wood-planks-over-abstract-light-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 0px;
+}
+
+
+.headAddress{
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+.container{
+    text-align: center;
+}
+#totalAmount{
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 20px;
+}
+a.continue{
+    background-color: lightskyblue;
+    border: 1px solid black;
+    color: black;
+    font-size: 18px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}

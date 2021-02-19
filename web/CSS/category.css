@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Dec-2020, 19:18:30
+    Author     : Lenovo
+*/
+
+
+    /* Add some padding on document's body to prevent the content
+    to go underneath the header and footer */
+    body{        
+        padding-top: 100px;
+        padding-bottom: 40px;
+        background-image: url("https://images7.alphacoders.com/697/thumb-1920-697523.jpg?fbclid=IwAR0AbO1IucVZJPDUr50Nu2E5iZDg9hk08tzRDQd-QkJBiLONh9kRnbZJHvw");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+  h1 {
+  color: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+    
+  h2 {
+  color: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+a{
+  color: yellow;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+
+    .container{
+        width: 80%;
+        margin: 0 auto; /* Center the DIV horizontally */
+        font-size: 100%;
+    }
+    
+    table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse; 
+}
+
+th{ background-color:  lightblue;}
+td{ background-color: white;}
+
+th, td {
+  padding: 20px;
+  font-size: 150%;
+}
+
+
+th,td {
+  text-align: center;
+}
