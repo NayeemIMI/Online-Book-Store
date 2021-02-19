@@ -26,3 +26,12 @@ This projet is built by following the MVC pattern. Seperation of concern and cle
 -Log In Page
 
 # Guidelines to Run this Project
+-Create a database "DB" in JavaDB and tables "Books" and "Users"
+
+-Download the source files and Extract.
+
+-Install NetBeans IDE 8.2 JavaEE edition.
+
+-Open NetBeans and select "Open Project" from file menu.
+
+-Select the extracted sourece file directory and run the project.
