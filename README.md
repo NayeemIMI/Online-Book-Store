@@ -8,6 +8,8 @@ This projet is built by following the MVC pattern. Seperation of concern and cle
 
 -Java Bean
 
+-Java DB
+
 -Java Persistence API
 
 -DAO Pattern
@@ -15,12 +17,8 @@ This projet is built by following the MVC pattern. Seperation of concern and cle
 -Session Facade Pattern
 
 # Features:
--User can register and log in.
-
--Search Book
-
 -Show All Book
 
--Add to Cart
+-User can Register Himself/ Herself
 
 -
